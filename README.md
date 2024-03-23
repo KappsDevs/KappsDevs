@@ -22,14 +22,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KappsDevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkem9xZjFvYzJsNnZ5eTg4NnlkNDRuN3V4dXBoamR6Y3Q0MnZqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
-
-###
-
-<div align="left">
-  
+<div align="center">
+  <br/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   
@@ -41,15 +36,21 @@
   
   <img width="12" />
   <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" height="30"/>
+
+  
   
 </div>
 
 ###
 
-<div align="left">
-  
+<div align="center">
   
   <a href="https://www.linkedin.com/in/stefanni-kapps-632a11213/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
   
+</div>
+
+
+<div align="center">
+<img  height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkem9xZjFvYzJsNnZ5eTg4NnlkNDRuN3V4dXBoamR6Y3Q0MnZqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 </div>
 
