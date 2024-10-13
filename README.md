@@ -9,9 +9,9 @@
   
   Hi 👋, I'm Stefanni Kapps!
 
-   🚀 I’m currently studying at CEFET-RJ  - 4th Semester
+   🚀 I’m currently studying at CEFET-RJ  - 5th Semester
 
-   💻 I am looking for my first job opportunity
+   
     
 </p>
 </div>
